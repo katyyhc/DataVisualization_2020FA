@@ -1,5 +1,4 @@
 ## DataVisualization_2020FA
-* Two interactive visualizations using ipywidgets and bqplot.
 * Dataset: US Permanent Visa Applications from Kaggle (https://www.kaggle.com/jboysen/us-perm-visas)
 
 1. Top 10 countries, each Visa status, each year
